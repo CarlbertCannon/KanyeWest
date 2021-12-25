@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FrankDaTank\\source\\repos\\KanyeREST\\KanyeWest.csproj": {}
+    "C:\\Users\\FrankDaTank\\source\\repos\\KanyeWest\\KanyeWest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FrankDaTank\\source\\repos\\KanyeREST\\KanyeWest.csproj": {
+    "C:\\Users\\FrankDaTank\\source\\repos\\KanyeWest\\KanyeWest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FrankDaTank\\source\\repos\\KanyeREST\\KanyeWest.csproj",
+        "projectUniqueName": "C:\\Users\\FrankDaTank\\source\\repos\\KanyeWest\\KanyeWest.csproj",
         "projectName": "KanyeWest",
-        "projectPath": "C:\\Users\\FrankDaTank\\source\\repos\\KanyeREST\\KanyeWest.csproj",
+        "projectPath": "C:\\Users\\FrankDaTank\\source\\repos\\KanyeWest\\KanyeWest.csproj",
         "packagesPath": "C:\\Users\\FrankDaTank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FrankDaTank\\source\\repos\\KanyeREST\\obj\\",
+        "outputPath": "C:\\Users\\FrankDaTank\\source\\repos\\KanyeWest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FrankDaTank\\AppData\\Roaming\\NuGet\\NuGet.Config",
